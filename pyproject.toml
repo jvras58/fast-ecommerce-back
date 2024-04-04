@@ -34,7 +34,7 @@ stripe = "*"
 mercadopago = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 cython = "*"
-psycopg = {extras = ["binary", "pool"], version = "*"}
+psycopg2-binary = "*"
 solarwinds-apm = "*"
 faststream = {extras = ["rabbit"], version = "*"}
 
